@@ -1,0 +1,67 @@
+Year,Location,Avg Min Temp *C,Yr Rain mm,Heat Wave,Dry Spell,Cold Wave,Wet Spell
+1998,East Carlburgh,21.2,1209.48,N,N,N,N
+1998,Ramirezview,23.7,827.86,N,N,N,N
+1998,East Carloston,21.8,1448.54,N,N,N,N
+1999,Ramirezview,23.8,900.54,N,No,N,Y
+1999,East Carloston,21.7,1589.79,N,N,N,Y
+1999,East Carlburgh,21.3,1118.52,Yes,Y,N,N
+2000,East Carloston,22.6,1616.63,N,N,N,Y
+2000,Ramirezview,23.8,952.52,N,N,N,Y
+2000,East Carlburgh,21.3,1180.97,Y,Y,N,N
+2001,East Carloston,22.1,1657.42,N,N,N,Y
+2001,Ramirezview,23.7,937.94,N,N,N,Y
+2001,East Carlburgh,21.2,1219.44,N,N,N,Y
+2002,East Carlburgh,21.0,1310.96,N,N,N,Y
+2002,East Carloston,22.1,1379.01,n,Y,N,N
+2002,Ramirezview,24.4,909.31,Y,N,N,Y
+2003,Ramirezview,24.0,863.54,Y,Y,N,N
+2003,East Carlburgh,21.5,1239.26,Y,N,N,Y
+2003,East Carloston,22.3,1557.41,N,Y,N,N
+2004,East Carloston,22.1,1776.62,N,N,N,Y
+2004,Ramirezview,24.3,931.01,Y,N,N,Y
+2004,East Carlburgh,21.2,1362.0,Y,N,N,Y
+2005,East Carlburgh,21.3,1286.71,Y,N,N,Y
+2005,East Carloston,21.9,1669.74,N,N,N,1
+2005,Ramirezview,24.3,1050.0,Y,N,N,Y
+2006,East Carlburgh,21.5,1280.8,Y,N,N,Y
+2006,Ramirezview,24.4,973.86,Y,N,No,Y
+2006,East Carloston,22.2,1872.93,N,N,N,Y
+2007,East Carlburgh,21.6,1444.12,Y,No,N,Y
+2007,East Carloston,22.0,1695.36,N,N,N,Y
+2007,Ramirezview,24.4,1028.29,Y,N,N,Y
+2008,Ramirezview,24.4,913.88,Y,N,N,Y
+2008,East Carloston,22.3,1842.64,N,N,N,Y
+2008,East Carlburgh,21.4,1434.63,Y,N,N,Y
+2009,Ramirezview,24.3,1076.79,Y,N,N,Y
+2009,East Carloston,22.3,1868.63,N,N,N,Y
+2009,East Carlburgh,21.9,1383.94,Y,N,N,Y
+2010,Ramirezview,24.6,1024.75,Y,N,N,Y
+2010,East Carloston,22.4,1735.02,No,N,N,Y
+2010,East Carlburgh,21.9,1419.4,Y,N,N,Y
+2011,Ramirezview,24.6,1129.73,yes,N,N,Y
+2011,East Carloston,22.6,1851.33,N,N,N,Y
+2011,East Carlburgh,22.1,1563.53,Y,N,N,Y
+2012,East Carlburgh,21.7,1533.48,Y,no,N,Y
+2012,Ramirezview,24.6,1094.19,Y,N,N,Y
+2012,East Carloston,22.7,1782.68,N,N,N,Y
+2013,East Carloston,22.5,1845.09,N,N,N,Y
+2013,Ramirezview,24.7,1105.08,Y,N,N,Y
+2013,East Carlburgh,21.9,1450.26,Y,N,N,Y
+2014,Ramirezview,24.9,1172.69,Y,N,N,Y
+2014,East Carloston,22.2,2067.68,N,N,no,Y
+2014,East Carlburgh,22.0,1551.13,Y,N,N,Y
+2015,Ramirezview,25.1,1082.65,Y,N,N,Y
+2015,East Carloston,22.4,2010.63,N,N,N,Y
+2015,East Carlburgh,22.5,1546.82,Y,N,N,Y
+2016,East Carlburgh,22.4,1471.54,Y,N,N,Y
+2016,Ramirezview,24.4,1166.51,Y,N,N,Y
+2016,East Carloston,23.1,2042.77,N,N,N,y
+2017,East Carlburgh,22.2,1443.46,Y,N,N,Y
+2017,East Carloston,23.0,1761.59,n,N,N,Y
+2017,Ramirezview,25.0,1150.4,Y,N,N,Y
+2018,Ramirezview,25.1,1194.61,Y,0,N,Y
+2018,East Carlburgh,21.9,1695.8,Y,N,N,Y
+2018,East Carloston,22.6,1842.32,N,N,N,Y
+2019,East Carloston,23.2,1904.86,N,N,N,Y
+2019,East Carlburgh,22.1,1570.74,Y,N,N,Y
+2019,Ramirezview,24.9,1166.17,Y,N,N,Y

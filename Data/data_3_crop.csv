@@ -1,0 +1,126 @@
+Year,Location,Irrigation,Crop Type,Crop Damage,Yield,Observer
+1980.0,East Carlburgh,Y,Canola,1.0,902.41,Sheila Vasquez
+,Ramirezview,Y,,1.0,1737.23,Veronica Hernandez
+1980.0,Ramirezview,Y,Wheat,1.0,1737.23,Veronica Hernandez
+1980.0,East Carloston,N,Wheat,0.0,1498.37,Derek King
+1981.0,East Carlburgh,Y,Wheat,1.0,1612.48,Sheila Vasquez
+1981.0,Ramirezview,Y,Maize,1.0,1422.37,Rebecca Rivas
+1981.0,East Carloston,N,Maize,0.0,1197.4,Derek King
+1982.0,East Carlburgh,Y,Canola,1.0,923.78,Sheila Vasquez
+1982.0,Ramirezview,Y,Wheat,1.0,1729.09,Linda Anderson
+1982.0,East Carloston,N,Maize,0.0,1197.75,Derek King
+1983.0,East Carlburgh,Y,Canola,1.0,904.28,Sheila Vasquez
+1983.0,Ramirezview,Y,Maize,1.0,1427.35,Linda Anderson
+1983.0,East Carloston,N,Maize,0.0,1198.21,Lori Garcia
+1984.0,East Carlburgh,Y,Maize,1.0,1326.61,Samantha Ramsey
+1984.0,Ramirezview,Y,Maize,1.0,1430.56,Linda Anderson
+1984.0,East Carloston,N,Wheat,0.0,1494.45,Michelle Garcia MD
+1985.0,Ramirezview,Y,Canola,1.0,1028.23,Linda Anderson
+1985.0,East Carloston,N,Canola,0.0,796.39,Michelle Garcia MD
+1985.0,East Carlburgh,Y,Maize,1.0,1330.23,Samantha Ramsey
+1986.0,East Carloston,N,Maize,0.0,1195.17,Michelle Garcia MD
+1986.0,East Carlburgh,Y,Maize,1.0,1314.0,Samantha Ramsey
+1986.0,Ramirezview,Y,Canola,1.0,1033.31,Erin Ramirez
+1987.0,East Carloston,N,Canola,0.0,793.0,Michelle Garcia MD
+1987.0,East Carlburgh,Y,Maize,1.0,1330.09,Joanna Palmer
+1987.0,Ramirezview,Y,Maize,1.0,1426.64,Erin Ramirez
+1988.0,East Carloston,N,Maize,0.0,1196.02,Michelle Garcia MD
+1988.0,East Carlburgh,Y,Canola,0.0,924.09,Joanna Palmer
+1988.0,Ramirezview,Y,Wheat,1.0,1733.25,Erin Ramirez
+1989.0,East Carloston,N,Wheat,0.0,1493.52,Michelle Garcia MD
+1989.0,East Carlburgh,Y,Wheat,1.0,1631.6,David Rodriguez
+1989.0,Ramirezview,Y,Canola,1.0,1040.88,Miguel Martin
+1990.0,East Carloston,N,Canola,0.0,794.86,Michelle Garcia MD
+1990.0,Ramirezview,Y,Wheat,1.0,1741.87,Miguel Martin
+1990.0,East Carlburgh,Y,Wheat,1.0,1632.73,David Rodriguez
+1991.0,Ramirezview,Y,Maize,0.0,1436.48,Mark Mendez
+1991.0,East Carloston,N,Wheat,0.0,1492.52,John Young
+1991.0,East Carlburgh,Y,Maize,0.0,1340.09,David Rodriguez
+1992.0,Ramirezview,Y,Wheat,0.0,1745.02,Martin Richards
+1992.0,East Carloston,N,Canola,0.0,792.72,John Young
+1992.0,East Carlburgh,Y,Canola,0.0,947.88,David Rodriguez
+1993.0,Ramirezview,Y,Maize,0.0,1449.81,Martin Richards
+1993.0,East Carloston,N,Wheat,0.0,1492.25,David Garcia
+1993.0,East Carlburgh,Y,Maize,0.0,1345.17,Janet Galloway
+1994.0,Ramirezview,Y,Maize,0.0,1450.2,Martin Richards
+1994.0,East Carloston,N,Canola,0.0,789.49,Robert Keith
+1994.0,East Carlburgh,Y,Wheat,0.0,1643.17,Janet Galloway
+1995.0,Ramirezview,Y,Wheat,0.0,1744.66,Martin Richards
+1995.0,East Carloston,N,Wheat,0.0,1493.1,Robert Keith
+1995.0,East Carlburgh,Y,Wheat,0.0,1659.81,Leslie Williams
+1996.0,East Carlburgh,Y,Maize,0.0,1353.17,Rachel Martinez
+1996.0,Ramirezview,Y,Wheat,0.0,1752.07,Evan Mckay
+1996.0,East Carloston,N,Maize,0.0,1190.46,Emily Johnson
+1997.0,East Carlburgh,Y,Wheat,0.0,1651.88,Rachel Martinez
+1997.0,Ramirezview,Y,Canola,0.0,1049.17,Laura Lewis
+1997.0,East Carloston,N,Canola,0.0,790.33,Emily Johnson
+1998.0,East Carlburgh,Y,Canola,0.0,959.39,Anthony Blackburn
+1998.0,Ramirezview,Y,Maize,0.0,1445.03,Laura Lewis
+1998.0,East Carloston,N,Canola,0.0,790.44,Kelly Thomas
+1999.0,Ramirezview,Y,Canola,0.0,1045.95,Laura Lewis
+1999.0,East Carloston,N,Canola,0.0,791.39,Kelly Thomas
+1999.0,East Carlburgh,Y,Wheat,0.0,1667.22,Anthony Blackburn
+2000.0,East Carloston,N,Canola,1.0,779.79,Kelly Thomas
+2000.0,Ramirezview,Y,Canola,0.0,1047.18,Ronnie Morrow
+2000.0,East Carlburgh,Y,Wheat,0.0,1663.56,Anthony Blackburn
+2001.0,East Carloston,N,Canola,0.0,786.93,Stephen Collins
+2001.0,Ramirezview,Y,Maize,0.0,1445.44,Mallory James
+2001.0,East Carlburgh,Y,Wheat,0.0,1660.57,Anthony Blackburn
+2002.0,East Carlburgh,Y,Canola,0.0,953.94,Anthony Blackburn
+2002.0,East Carloston,N,Maize,0.0,1186.93,Stephen Collins
+2002.0,Ramirezview,Y,Maize,0.0,1461.93,Amanda Sanchez
+2003.0,Ramirezview,Y,Maize,0.0,1451.05,Amanda Sanchez
+2003.0,East Carlburgh,Y,Maize,0.0,1373.34,Anthony Blackburn
+2003.0,East Carloston,N,Wheat,1.0,1484.66,Stephen Collins
+2004.0,East Carloston,No,Canola,0.0,786.32,Stephen Collins
+2004.0,Ramirezview,Y,Wheat,0.0,1758.04,Amanda Sanchez
+2004.0,East Carlburgh,Y,Maize,0.0,1363.3,Anthony Blackburn
+2005.0,East Carlburgh,Y,Maize,0.0,1365.0,Emily Mccoy
+2005.0,East Carloston,N,Maize,0.0,1188.97,Nicole Marks
+2005.0,Ramirezview,Y,Maize,0.0,1458.21,Amanda Sanchez
+2006.0,East Carlburgh,Y,Canola,0.0,972.5,Robert Oneal
+2006.0,Ramirezview,Y,Canola,0.0,1061.09,Pamela Williams
+2006.0,East Carloston,N,Wheat,1.0,1485.96,Nicole Marks
+2007.0,East Carlburgh,Y,Canola,0.0,975.83,Franklin Graham
+2007.0,East Carloston,N,Wheat,0.0,1487.5,Nicole Marks
+2007.0,Ramirezview,Y,Wheat,0.0,1761.07,Justin Gibbs
+2008.0,Ramirezview,Y,Wheat,0.0,1762.15,Justin Gibbs
+2008.0,East Carloston,N,Maize,1.0,1184.65,Kristi Brewer
+2008.0,East Carlburgh,Y,Canola,0.0,969.27,Melissa Boyle
+2008.0,East Carlburgh,,Canola,0.0,969.27,Melissa Boyle
+2009.0,Ramirezview,Y,Maize,0.0,1459.78,Lee Gutierrez
+2009.0,East Carloston,N,Maize,1.0,1183.78,Michelle Pena
+2009.0,East Carlburgh,Y,Wheat,0.0,1688.53,Samantha Parker
+2010.0,Ramirezview,Y,Canola,0.0,1065.04,Lee Gutierrez
+2010.0,East Carloston,N,Canola,0.0,782.33,Michelle Pena
+2010.0,East Carloston,N,Canola,,782.33,
+2010.0,East Carlburgh,Y,Canola,0.0,987.7,Samantha Parker
+2011.0,Ramirezview,Y,Wheat,0.0,1765.22,Lee Gutierrez
+2011.0,East Carloston,N,Wheat,1.0,1480.19,Michelle Pena
+2011.0,East Carlburgh,Y,Wheat,0.0,1693.9,Samantha Parker
+2012.0,East Carlburgh,Y,Wheat,0.0,1679.84,Samantha Parker
+2012.0,Ramirezview,Y,Maize,0.0,1465.99,Lee Gutierrez
+2012.0,East Carloston,N,Wheat,1.0,1478.56,Kenneth Jackson
+2013.0,East Carloston,N,Maize,1.0,1180.52,Joshua Hopkins
+2013.0,Ramirezview,Y,Canola,0.0,1066.84,Lee Gutierrez
+2013.0,,Y,Canola,0.0,,Lee Gutierrez
+2013.0,East Carlburgh,Y,Maize,0.0,1386.75,Samantha Parker
+2014.0,Ramirezview,Y,Canola,0.0,1071.36,Lee Gutierrez
+2014.0,East Carloston,N,Canola,1.0,784.93,Lindsay Jennings
+2014.0,East Carlburgh,Y,Maize,0.0,1391.81,Samantha Parker
+2015.0,Ramirezview,Y,Wheat,0.0,1774.11,John Meyer
+2015.0,Ramirezview,Y,Wheat,0.0,1774.11,John Meyer
+2015.0,East Carloston,N,Maize,1.0,1182.52,Lindsay Jennings
+2015.0,East Carlburgh,Y,Canola,0.0,1008.98,Samantha Parker
+2016.0,East Carlburgh,Y,Maize,0.0,1407.36,Samantha Parker
+2016.0,Ramirezview,Y,Maize,0.0,1460.52,John Meyer
+2016.0,East Carloston,N,Canola,1.0,772.05,Regina Alexander
+2017.0,East Carlburgh,Y,Wheat,0.0,1698.06,Ashley Lopez
+2017.0,East Carloston,N,Canola,1.0,772.43,Regina Alexander
+2017.0,Ramirezview,Y,Wheat,0.0,1772.61,Joshua Duncan
+2018.0,Ramirezview,Y,Maize,0.0,1474.72,Samantha Baker
+2018.0,East Carlburgh,Y,Maize,0.0,1388.0,Ashley Lopez
+2018.0,East Carloston,N,Maize,1.0,1180.34,Linda Mendoza
+2019.0,East Carloston,N,Canola,1.0,768.5,Sarah Simpson
+2019.0,East Carlburgh,Y,Canola,0.0,994.37,Cindy Orr
+2019.0,Ramirezview,Y,Wheat,0.0,1771.76,Samantha Baker

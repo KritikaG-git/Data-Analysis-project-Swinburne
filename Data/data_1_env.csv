@@ -1,0 +1,55 @@
+Year,Location,Avg Min Temp *F,Yr Rain inches,Heat Wave,Dry Spell,Cold Wave,Wet Spell
+1980,East Carlburgh,67.82,34.6579,0,N,Y,N
+1980,Ramirezview,74.12,31.2599,N,N,Y,N
+1980,East Carloston,69.25999999999999,42.9,N,N,N,N
+1981,East Carlburgh,68.18,31.0839,N,N,Y,N
+1981,Ramirezview,73.22,26.8536,N,N,Y,N
+1981,East Carloston,69.62,50.5563,N,N,N,N
+1982,East Carlburgh,68.53999999999999,29.3272,N,N,Y,N
+1982,Ramirezview,73.58000000000001,22.7024,N,N,Y,N
+1982,East Carloston,69.62,50.7323,N,N,N,N
+1983,East Carlburgh,67.82,34.0803,N,N,1,N
+1983,Ramirezview,73.58000000000001,23.3063,N,N,Y,N
+1983,East Carloston,69.44,54.0457,N,N,N,N
+1984,East Carlburgh,68.72,35.4276,N,N,Y,N
+1984,Ramirezview,73.75999999999999,24.4768,N,N,Y,N
+1984,East Carloston,70.52,50.0366,N,N,N,N
+1985,Ramirezview,73.58000000000001,23.4197,N,N,Y,N
+1985,East Carloston,69.98,57.4146,N,N,N,N
+1985,East Carlburgh,68.9,42.739,N,N,Y,N
+1986,East Carloston,70.34,51.4418,N,N,N,N
+1986,East Carlburgh,68.18,34.7469,N,N,Y,N
+1986,Ramirezview,73.94,25.0606,N,N,Y,N
+1987,East Carloston,70.7,57.3603,N,N,N,N
+1987,East Carlburgh,68.9,40.6768,N,0,Y,N
+1987,Ramirezview,73.58000000000001,27.3106,N,N,Y,N
+1988,East Carloston,70.16,51.4414,N,N,N,N
+1988,East Carlburgh,68.53999999999999,37.1795,N,N,N,no
+1988,Ramirezview,73.94,31.065,N,N,Y,N
+1989,East Carloston,70.7,56.3067,N,N,N,N
+1989,East Carlburgh,68.9,38.2193,N,N,Y,N
+1989,Ramirezview,74.48,28.6083,N,N,Y,N
+1990,East Carloston,70.34,53.6985,N,N,N,N
+1990,Ramirezview,74.48,30.4669,N,N,Y,N
+1990,East Carlburgh,68.9,36.4063,N,N,Y,N
+1991,Ramirezview,74.12,27.7689,N,N,N,N
+1991,East Carloston,70.88,62.313,N,N,N,N
+1991,East Carlburgh,69.25999999999999,44.8481,N,N,N,N
+1992,Ramirezview,74.66,31.7051,N,N,N,N
+1992,East Carloston,70.88,51.8481,N,N,N,N
+1992,East Carlburgh,69.62,46.8713,N,N,N,N
+1993,Ramirezview,75.02,32.7232,N,N,N,N
+1993,East Carloston,70.88,56.1697,N,N,N,N
+1993,East Carlburgh,69.44,43.4441,N,N,N,N
+1994,Ramirezview,75.02,32.3729,Y,Y,N,N
+1994,East Carloston,71.42,60.7461,N,N,N,N
+1994,East Carlburgh,69.44,47.6378,N,N,N,N
+1995,Ramirezview,74.66,28.152,N,N,N,N
+1995,East Carloston,70.7,61.3772,N,N,N,N
+1995,East Carlburgh,70.16,45.1465,N,N,N,0
+1996,East Carlburgh,69.80000000000001,44.4197,N,N,N,0
+1996,Ramirezview,75.2,30.7465,N,Y,N,N
+1996,East Carloston,71.24000000000001,61.4701,N,N,N,N
+1997,East Carlburgh,69.80000000000001,47.6894,N,N,N,Y
+1997,Ramirezview,75.02,33.7827,N,N,N,N
+1997,East Carloston,71.24000000000001,67.1839,N,N,N,Y

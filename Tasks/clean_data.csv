@@ -1,0 +1,121 @@
+Year,Location,Heat Wave,Dry Spell,Cold Wave,Wet Spell,Avg Min Temp °C,Yr Rain mm,Irrigation,Crop Type,Crop Damage,Yield,Observer
+1980,East Carlburgh,N,N,Y,N,19.9,880.31,Y,Canola,Y,902.41,Sheila Vasquez
+1980,Ramirezview,N,N,Y,N,23.4,794.0,Y,Wheat,Y,1737.23,Veronica Hernandez
+1980,East Carloston,N,N,N,N,20.7,1089.66,N,Wheat,N,1498.37,Derek King
+1981,East Carlburgh,N,N,Y,N,20.1,789.53,Y,Wheat,Y,1612.48,Sheila Vasquez
+1981,Ramirezview,N,N,Y,N,22.9,682.08,Y,Maize,Y,1422.37,Rebecca Rivas
+1981,East Carloston,N,N,N,N,20.9,1284.13,N,Maize,N,1197.4,Derek King
+1982,East Carlburgh,N,N,Y,N,20.3,744.91,Y,Canola,Y,923.78,Sheila Vasquez
+1982,Ramirezview,N,N,Y,N,23.1,576.64,Y,Wheat,Y,1729.09,Linda Anderson
+1982,East Carloston,N,N,N,N,20.9,1288.6,N,Maize,N,1197.75,Derek King
+1983,East Carlburgh,N,N,Y,N,19.9,865.64,Y,Canola,Y,904.28,Sheila Vasquez
+1983,Ramirezview,N,N,Y,N,23.1,591.98,Y,Maize,Y,1427.35,Linda Anderson
+1983,East Carloston,N,N,N,N,20.8,1372.76,N,Maize,N,1198.21,Lori Garcia
+1984,East Carlburgh,N,N,Y,N,20.4,899.86,Y,Maize,Y,1326.61,Samantha Ramsey
+1984,Ramirezview,N,N,Y,N,23.2,621.71,Y,Maize,Y,1430.56,Linda Anderson
+1984,East Carloston,N,N,N,N,21.4,1270.93,N,Wheat,N,1494.45,Michelle Garcia MD
+1985,Ramirezview,N,N,Y,N,23.1,594.86,Y,Canola,Y,1028.23,Linda Anderson
+1985,East Carloston,N,N,N,N,21.1,1458.33,N,Canola,N,796.39,Michelle Garcia MD
+1985,East Carlburgh,N,N,Y,N,20.5,1085.57,Y,Maize,Y,1330.23,Samantha Ramsey
+1986,East Carloston,N,N,N,N,21.3,1306.62,N,Maize,N,1195.17,Michelle Garcia MD
+1986,East Carlburgh,N,N,Y,N,20.1,882.57,Y,Maize,Y,1314.0,Samantha Ramsey
+1986,Ramirezview,N,N,Y,N,23.3,636.54,Y,Canola,Y,1033.31,Erin Ramirez
+1987,East Carloston,N,N,N,N,21.5,1456.95,N,Canola,N,793.0,Michelle Garcia MD
+1987,East Carlburgh,N,N,Y,N,20.5,1033.19,Y,Maize,Y,1330.09,Joanna Palmer
+1987,Ramirezview,N,N,Y,N,23.1,693.69,Y,Maize,Y,1426.64,Erin Ramirez
+1988,East Carloston,N,N,N,N,21.2,1306.61,N,Maize,N,1196.02,Michelle Garcia MD
+1988,East Carlburgh,N,N,N,N,20.3,944.36,Y,Canola,N,924.09,Joanna Palmer
+1988,Ramirezview,N,N,Y,N,23.3,789.05,Y,Wheat,Y,1733.25,Erin Ramirez
+1989,East Carloston,N,N,N,N,21.5,1430.19,N,Wheat,N,1493.52,Michelle Garcia MD
+1989,East Carlburgh,N,N,Y,N,20.5,970.77,Y,Wheat,Y,1631.6,David Rodriguez
+1989,Ramirezview,N,N,Y,N,23.6,726.65,Y,Canola,Y,1040.88,Miguel Martin
+1990,East Carloston,N,N,N,N,21.3,1363.94,N,Canola,N,794.86,Michelle Garcia MD
+1990,Ramirezview,N,N,Y,N,23.6,773.86,Y,Wheat,Y,1741.87,Miguel Martin
+1990,East Carlburgh,N,N,Y,N,20.5,924.72,Y,Wheat,Y,1632.73,David Rodriguez
+1991,Ramirezview,N,N,N,N,23.4,705.33,Y,Maize,N,1436.48,Mark Mendez
+1991,East Carloston,N,N,N,N,21.6,1582.75,N,Wheat,N,1492.52,John Young
+1991,East Carlburgh,N,N,N,N,20.7,1139.14,Y,Maize,N,1340.09,David Rodriguez
+1992,Ramirezview,N,N,N,N,23.7,805.31,Y,Wheat,N,1745.02,Martin Richards
+1992,East Carloston,N,N,N,N,21.6,1316.94,N,Canola,N,792.72,John Young
+1992,East Carlburgh,N,N,N,N,20.9,1190.53,Y,Canola,N,947.88,David Rodriguez
+1993,Ramirezview,N,N,N,N,23.9,831.17,Y,Maize,N,1449.81,Martin Richards
+1993,East Carloston,N,N,N,N,21.6,1426.71,N,Wheat,N,1492.25,David Garcia
+1993,East Carlburgh,N,N,N,N,20.8,1103.48,Y,Maize,N,1345.17,Janet Galloway
+1994,Ramirezview,Y,Y,N,N,23.9,822.27,Y,Maize,N,1450.2,Martin Richards
+1994,East Carloston,N,N,N,N,21.9,1542.95,N,Canola,N,789.49,Robert Keith
+1994,East Carlburgh,N,N,N,N,20.8,1210.0,Y,Wheat,N,1643.17,Janet Galloway
+1995,Ramirezview,N,N,N,N,23.7,715.06,Y,Wheat,N,1744.66,Martin Richards
+1995,East Carloston,N,N,N,N,21.5,1558.98,N,Wheat,N,1493.1,Robert Keith
+1995,East Carlburgh,N,N,N,N,21.2,1146.72,Y,Wheat,N,1659.81,Leslie Williams
+1996,East Carlburgh,N,N,N,N,21.0,1128.26,Y,Maize,N,1353.17,Rachel Martinez
+1996,Ramirezview,N,Y,N,N,24.0,780.96,Y,Wheat,N,1752.07,Evan Mckay
+1996,East Carloston,N,N,N,N,21.8,1561.34,N,Maize,N,1190.46,Emily Johnson
+1997,East Carlburgh,N,N,N,Y,21.0,1211.31,Y,Wheat,N,1651.88,Rachel Martinez
+1997,Ramirezview,N,N,N,N,23.9,858.08,Y,Canola,N,1049.17,Laura Lewis
+1997,East Carloston,N,N,N,Y,21.8,1706.47,N,Canola,N,790.33,Emily Johnson
+1998,East Carlburgh,N,N,N,N,,1209.48,Y,Canola,N,959.39,Anthony Blackburn
+1998,Ramirezview,N,N,N,N,,827.86,Y,Maize,N,1445.03,Laura Lewis
+1998,East Carloston,N,N,N,N,,1448.54,N,Canola,N,790.44,Kelly Thomas
+1999,Ramirezview,N,N,N,Y,,900.54,Y,Canola,N,1045.95,Laura Lewis
+1999,East Carloston,N,N,N,Y,,1589.79,N,Canola,N,791.39,Kelly Thomas
+1999,East Carlburgh,Y,Y,N,N,,1118.52,Y,Wheat,N,1667.22,Anthony Blackburn
+2000,East Carloston,N,N,N,Y,,1616.63,N,Canola,Y,779.79,Kelly Thomas
+2000,Ramirezview,N,N,N,Y,,952.52,Y,Canola,N,1047.18,Ronnie Morrow
+2000,East Carlburgh,Y,Y,N,N,,1180.97,Y,Wheat,N,1663.56,Anthony Blackburn
+2001,East Carloston,N,N,N,Y,,1657.42,N,Canola,N,786.93,Stephen Collins
+2001,Ramirezview,N,N,N,Y,,937.94,Y,Maize,N,1445.44,Mallory James
+2001,East Carlburgh,N,N,N,Y,,1219.44,Y,Wheat,N,1660.57,Anthony Blackburn
+2002,East Carlburgh,N,N,N,Y,,1310.96,Y,Canola,N,953.94,Anthony Blackburn
+2002,East Carloston,N,Y,N,N,,1379.01,N,Maize,N,1186.93,Stephen Collins
+2002,Ramirezview,Y,N,N,Y,,909.31,Y,Maize,N,1461.93,Amanda Sanchez
+2003,Ramirezview,Y,Y,N,N,,863.54,Y,Maize,N,1451.05,Amanda Sanchez
+2003,East Carlburgh,Y,N,N,Y,,1239.26,Y,Maize,N,1373.34,Anthony Blackburn
+2003,East Carloston,N,Y,N,N,,1557.41,N,Wheat,Y,1484.66,Stephen Collins
+2004,East Carloston,N,N,N,Y,,1776.62,N,Canola,N,786.32,Stephen Collins
+2004,Ramirezview,Y,N,N,Y,,931.01,Y,Wheat,N,1758.04,Amanda Sanchez
+2004,East Carlburgh,Y,N,N,Y,,1362.0,Y,Maize,N,1363.3,Anthony Blackburn
+2005,East Carlburgh,Y,N,N,Y,,1286.71,Y,Maize,N,1365.0,Emily Mccoy
+2005,East Carloston,N,N,N,Y,,1669.74,N,Maize,N,1188.97,Nicole Marks
+2005,Ramirezview,Y,N,N,Y,,1050.0,Y,Maize,N,1458.21,Amanda Sanchez
+2006,East Carlburgh,Y,N,N,Y,,1280.8,Y,Canola,N,972.5,Robert Oneal
+2006,Ramirezview,Y,N,N,Y,,973.86,Y,Canola,N,1061.09,Pamela Williams
+2006,East Carloston,N,N,N,Y,,1872.93,N,Wheat,Y,1485.96,Nicole Marks
+2007,East Carlburgh,Y,N,N,Y,,1444.12,Y,Canola,N,975.83,Franklin Graham
+2007,East Carloston,N,N,N,Y,,1695.36,N,Wheat,N,1487.5,Nicole Marks
+2007,Ramirezview,Y,N,N,Y,,1028.29,Y,Wheat,N,1761.07,Justin Gibbs
+2008,Ramirezview,Y,N,N,Y,,913.88,Y,Wheat,N,1762.15,Justin Gibbs
+2008,East Carloston,N,N,N,Y,,1842.64,N,Maize,Y,1184.65,Kristi Brewer
+2008,East Carlburgh,Y,N,N,Y,,1434.63,Y,Canola,N,969.27,Melissa Boyle
+2009,Ramirezview,Y,N,N,Y,,1076.79,Y,Maize,N,1459.78,Lee Gutierrez
+2009,East Carloston,N,N,N,Y,,1868.63,N,Maize,Y,1183.78,Michelle Pena
+2009,East Carlburgh,Y,N,N,Y,,1383.94,Y,Wheat,N,1688.53,Samantha Parker
+2010,Ramirezview,Y,N,N,Y,,1024.75,Y,Canola,N,1065.04,Lee Gutierrez
+2010,East Carloston,N,N,N,Y,,1735.02,N,Canola,N,782.33,Michelle Pena
+2010,East Carlburgh,Y,N,N,Y,,1419.4,Y,Canola,N,987.7,Samantha Parker
+2011,Ramirezview,Y,N,N,Y,,1129.73,Y,Wheat,N,1765.22,Lee Gutierrez
+2011,East Carloston,N,N,N,Y,,1851.33,N,Wheat,Y,1480.19,Michelle Pena
+2011,East Carlburgh,Y,N,N,Y,,1563.53,Y,Wheat,N,1693.9,Samantha Parker
+2012,East Carlburgh,Y,N,N,Y,,1533.48,Y,Wheat,N,1679.84,Samantha Parker
+2012,Ramirezview,Y,N,N,Y,,1094.19,Y,Maize,N,1465.99,Lee Gutierrez
+2012,East Carloston,N,N,N,Y,,1782.68,N,Wheat,Y,1478.56,Kenneth Jackson
+2013,East Carloston,N,N,N,Y,,1845.09,N,Maize,Y,1180.52,Joshua Hopkins
+2013,Ramirezview,Y,N,N,Y,,1105.08,Y,Canola,N,1066.84,Lee Gutierrez
+2013,East Carlburgh,Y,N,N,Y,,1450.26,Y,Maize,N,1386.75,Samantha Parker
+2014,Ramirezview,Y,N,N,Y,,1172.69,Y,Canola,N,1071.36,Lee Gutierrez
+2014,East Carloston,N,N,N,Y,,2067.68,N,Canola,Y,784.93,Lindsay Jennings
+2014,East Carlburgh,Y,N,N,Y,,1551.13,Y,Maize,N,1391.81,Samantha Parker
+2015,Ramirezview,Y,N,N,Y,,1082.65,Y,Wheat,N,1774.11,John Meyer
+2015,East Carloston,N,N,N,Y,,2010.63,N,Maize,Y,1182.52,Lindsay Jennings
+2015,East Carlburgh,Y,N,N,Y,,1546.82,Y,Canola,N,1008.98,Samantha Parker
+2016,East Carlburgh,Y,N,N,Y,,1471.54,Y,Maize,N,1407.36,Samantha Parker
+2016,Ramirezview,Y,N,N,Y,,1166.51,Y,Maize,N,1460.52,John Meyer
+2016,East Carloston,N,N,N,Y,,2042.77,N,Canola,Y,772.05,Regina Alexander
+2017,East Carlburgh,Y,N,N,Y,,1443.46,Y,Wheat,N,1698.06,Ashley Lopez
+2017,East Carloston,N,N,N,Y,,1761.59,N,Canola,Y,772.43,Regina Alexander
+2017,Ramirezview,Y,N,N,Y,,1150.4,Y,Wheat,N,1772.61,Joshua Duncan
+2018,Ramirezview,Y,N,N,Y,,1194.61,Y,Maize,N,1474.72,Samantha Baker
+2018,East Carlburgh,Y,N,N,Y,,1695.8,Y,Maize,N,1388.0,Ashley Lopez
+2018,East Carloston,N,N,N,Y,,1842.32,N,Maize,Y,1180.34,Linda Mendoza
+2019,East Carloston,N,N,N,Y,,1904.86,N,Canola,Y,768.5,Sarah Simpson
+2019,East Carlburgh,Y,N,N,Y,,1570.74,Y,Canola,N,994.37,Cindy Orr
+2019,Ramirezview,Y,N,N,Y,,1166.17,Y,Wheat,N,1771.76,Samantha Baker
